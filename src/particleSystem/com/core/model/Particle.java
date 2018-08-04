@@ -1,4 +1,4 @@
-package sample.com.core.model;
+package particleSystem.com.core.model;
 
 
 import javafx.geometry.Point2D;

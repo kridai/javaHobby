@@ -1,9 +1,9 @@
-package sample.core.service;
+package particleSystem.core.service;
 
 import javafx.geometry.Point2D;
 import javafx.scene.effect.BlendMode;
 import javafx.scene.paint.Color;
-import sample.com.core.model.Particle;
+import particleSystem.com.core.model.Particle;
 
 import java.util.ArrayList;
 import java.util.List;

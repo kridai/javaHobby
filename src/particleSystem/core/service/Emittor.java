@@ -1,6 +1,6 @@
-package sample.core.service;
+package particleSystem.core.service;
 
-import sample.com.core.model.Particle;
+import particleSystem.com.core.model.Particle;
 
 import java.util.List;
 

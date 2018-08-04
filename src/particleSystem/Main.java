@@ -1,4 +1,4 @@
-package sample;
+package particleSystem;
 
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
@@ -10,9 +10,9 @@ import javafx.scene.effect.BlendMode;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
-import sample.core.service.Emittor;
-import sample.core.service.FireEmittor;
-import sample.com.core.model.Particle;
+import particleSystem.core.service.Emittor;
+import particleSystem.core.service.FireEmittor;
+import particleSystem.com.core.model.Particle;
 
 import java.util.ArrayList;
 import java.util.List;

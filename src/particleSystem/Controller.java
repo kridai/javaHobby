@@ -1,4 +1,4 @@
-package sample;
+package particleSystem;
 
 public class Controller {
 }
